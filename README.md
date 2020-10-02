@@ -1,5 +1,5 @@
 ## ssf
 
-simple serverless friends
+Simple Serverless Friends
 
-making a react based social network
+Making a react based social network live on the Github.
